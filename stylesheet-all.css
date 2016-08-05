@@ -64,3 +64,19 @@ color: black;
 img {
 	max-width: 100%;
 }
+
+.sale-text{
+	text-align: center;
+	margin: 10%;
+}
+
+image{
+	max-width: 60%;
+	margin: 5%;
+}
+
+.about-text{
+	margin: 5%;
+	padding-left: 60%;
+	line-height: 160%
+}
